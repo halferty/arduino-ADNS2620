@@ -4,9 +4,7 @@
  * Written by Ryan Owens
 */
 
-#include <avr/pgmspace.h>
 #include "adns2620.h"
-#include "WProgram.h"
 
 //Constructor sets the pins used for the mock 'i2c' communication
 ADNS2620::ADNS2620(int sda, int scl)

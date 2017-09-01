@@ -7,7 +7,7 @@
 #define adns2620_h
 
 #include <avr/pgmspace.h>
-#include "WProgram.h"
+#include "arduino.h"
 
 class ADNS2620
 {
